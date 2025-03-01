@@ -7,4 +7,4 @@ if n1 > n2:
 elif n1 < n2:
     print (n2, "is the bigger number")
 else:
-    print ("Both numbers are equal")
+    print ("Equal")
